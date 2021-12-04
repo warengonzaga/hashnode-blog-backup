@@ -4,7 +4,7 @@ Let's say you've published your first open-source JavaScript library or framewor
 
 Now, your open-source project should have at least a basic homepage then improve it from time to time as you have free time to work on it. Here's the question, what is the best domain name for a JavaScript library or framework? 🤔
 
-## js.org Subdomain Name
+## `js.org` Subdomain Name
 
 [![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1638626791662/pIjbxJxyx.png)](https://js.org)
 
