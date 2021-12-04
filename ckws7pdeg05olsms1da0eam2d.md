@@ -162,5 +162,3 @@ For me, that's the reason why I call perfect domain name for your JavaScript lib
 
 Cheers! 🚀👌
 See you on my next blog...
-
-%%[buymeacoffee]
