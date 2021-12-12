@@ -79,7 +79,7 @@ To lessen the tasks, I started using these libraries and frameworks to get the j
 
 My recommendation, learn the fundamentals and start learning them with libraries or frameworks because along the way you'll pick up it. Just explore! Learn by doing... 🥰
 
-### Bonus Content
+### 🚀 Bonus Content
 
 As a bonus, check out my [GitHub list](https://github.com/stars/WarenGonzaga/lists/7a-web-animation)  for this series and also [grab the PDF version](https://warengonzaga.gumroad.com/l/CcPGQ) of it for **FREE**. 😉
 
