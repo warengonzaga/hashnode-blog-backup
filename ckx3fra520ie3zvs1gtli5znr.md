@@ -1,6 +1,6 @@
 ## 7 Awesome: Web Animation Libraries and Frameworks
 
-Welcome to my first **7 Awesome Series**! 🎉 Enjoy! ([PDF Version Available](https://warengonzaga.gumroad.com/l/CcPGQ))
+Welcome to my first **7 Awesome Series**! 🎉 Enjoy! ([PDF Version Available](https://warengonzaga.gumroad.com/l/CcPGQ)).
 
 ## 🤝 Introduction
 
