@@ -4,7 +4,7 @@ Welcome to my first **7 Awesome Series**! 🎉 Enjoy!
 
 ## 🤝 Introduction
 
-7 awesome is my latest tech blog series where I'm gonna share the top list of anything related to software engineering. Have a list in mind let me know in the comments below! 😉 Let's start!
+[7 awesome](https://blog.warengonzaga.com/series/7-awesome) is my latest tech blog series where I'm gonna share the top list of anything related to software engineering. Have a list in mind let me know in the comments below! 😉 Let's start!
 
 Today I'm gonna share with you the top 7 awesome web animation libraries and frameworks you should know as a software developer. 🤯 These are the web animation that might help you in your current and future projects. Let's go straight to the content right away! 😅
 
@@ -79,7 +79,9 @@ To lessen the tasks, I started using these libraries and frameworks to get the j
 
 My recommendation, learn the fundamentals and start learning them with libraries or frameworks because along the way you'll pick up it. Just explore! Learn by doing... 🥰
 
-## 🥰 Support Me
+As a bonus, check out my  [GitHub list](https://github.com/stars/WarenGonzaga/lists/7a-web-animation)  for this series!
+
+## 💖 Support Me
 
 📢 Nominate me ([@WarenGonzaga](https://github.com/warengonzaga)) as a [GitHub Star](https://stars.github.com/nominate). If you appreciate my hard work, passion, and dedication to open source projects.
 
