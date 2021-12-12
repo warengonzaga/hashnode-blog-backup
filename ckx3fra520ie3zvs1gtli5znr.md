@@ -69,10 +69,16 @@ I'm one of the active community members back then and I help others how to use t
 
 I recommend checking out the [website](https://greensock.com/showcase/) for more information.
 
-## Last Words
+## 🐱‍👤 Last Words
 
 I want to point out that it is not required to use libraries and frameworks when it comes to web animations. I learned the hard way back then when I start working as a junior developer. I animate the web without using any libraries and frameworks and it was like a hell. 😅
 
 To lessen the tasks, I started using these libraries and frameworks to get the job done as fast as I can. In a corporate world, they don't care what you know and what you use as long as you complete your job in the right way. 😁 I know you know what I mean... 😅
 
 My recommendation, learn the fundamentals and start learning them with libraries or frameworks because along the way you'll pick up it. Just explore! Learn by doing... 🥰
+
+---
+
+📢 Nominate me ([@WarenGonzaga](https://github.com/warengonzaga)) as a [GitHub Star](https://stars.github.com/nominate). If you appreciate my hard work, passion, and dedication to open source projects.
+
+Cheers! 🚀👌 See you on my next blog...
