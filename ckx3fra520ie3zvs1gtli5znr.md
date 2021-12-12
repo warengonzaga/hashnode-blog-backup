@@ -6,7 +6,7 @@ Welcome to my first **7 Awesome Series**! 🎉 Enjoy!
 
 7 awesome is my latest tech blog series where I'm gonna share the top list of anything related to software engineering. Have a list in mind let me know in the comments below! 😉 Let's start!
 
-Today I'm gonna share with you the top 7 awesome web animation libraries and frameworks you should know as a software developer. 🤯 These are the web animation that might help you in your current and future projects. Let go straight to the content right away! 😅
+Today I'm gonna share with you the top 7 awesome web animation libraries and frameworks you should know as a software developer. 🤯 These are the web animation that might help you in your current and future projects. Let's go straight to the content right away! 😅
 
 ## ✨ The 7 Awesome
 
@@ -30,6 +30,8 @@ This is one of the best web animation libraries out there and you can create cra
 Let's admit it, this is one of the most useful CSS animation libraries out there. 😅
 
 I'm part of the core team and made some significant improvements to the web animation library. You are not a developer if you don't ever use animate.css before. 😂 Don't take it seriously, what I'm trying to say is that every developer knows about it. 😎
+
+AnimateCSS has an active community and I'm still working on upcoming updates. It has clear and reliable documentation for you to start using on your web projects. 😎
 
 ### 📦 AnimeJS
 
@@ -77,7 +79,7 @@ To lessen the tasks, I started using these libraries and frameworks to get the j
 
 My recommendation, learn the fundamentals and start learning them with libraries or frameworks because along the way you'll pick up it. Just explore! Learn by doing... 🥰
 
----
+## 🥰 Support Me
 
 📢 Nominate me ([@WarenGonzaga](https://github.com/warengonzaga)) as a [GitHub Star](https://stars.github.com/nominate). If you appreciate my hard work, passion, and dedication to open source projects.
 
