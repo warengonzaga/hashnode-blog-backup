@@ -87,4 +87,4 @@ As a bonus, check out my [GitHub list](https://github.com/stars/WarenGonzaga/lis
 
 📢 Nominate me ([@WarenGonzaga](https://github.com/warengonzaga)) as a [GitHub Star](https://stars.github.com/nominate). If you appreciate my hard work, passion, and dedication to open source projects.
 
-Cheers! 🚀👌 See you on my next blog...
+Cheers, see you on my next 7 awesome blogs... 💻💖☕
