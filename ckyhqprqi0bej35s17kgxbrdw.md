@@ -128,7 +128,7 @@ Check out [this awesome guide](https://thirdweb.com/portal/guides/release-an-nft
 
 At this moment, we're currently giving away [free NFT (Silver Early Access Cards)](https://thirdweb.com/early) to the first 100,000 users to mint it. Hurry!!! Don't forget to join our [community](https://discord.gg/thirdweb) too! 🤯✨
 
-Thanks for reading, good luck with your Web3 journey! 💖
+Thanks for reading, good luck with your Web3 journey! 💖 **GM**, **WAGMI!**
 
 ## 💖 Support Me
 
