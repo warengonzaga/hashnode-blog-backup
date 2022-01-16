@@ -6,6 +6,8 @@
 
 I'm not gonna talk more about Web3 here in detail maybe on a separate blog so better to follow and subscribe to my newsletter so you won't miss out on any Web3 related content soon! 😎
 
+**([Get a Free PDF Version Here](https://warengonzaga.gumroad.com/l/nmkip))** 👈
+
 Let's start! 🤘
 
 ## ✨ The 7 Awesome
