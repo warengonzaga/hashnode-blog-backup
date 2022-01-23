@@ -10,7 +10,7 @@ It is easy to create your own CSS text portrait from scratch, but how about othe
 
 Let's create your own CSS text portrait in less than 3 minutes using my builder!
 
-## The Builder
+## 🛠 The Builder
 
 [![banner repo](https://cdn.hashnode.com/res/hashnode/image/upload/v1638054587456/UZ5LPh7Qi.png)](https://github.com/warengonzaga/css-text-portrait-builder)
 
@@ -20,7 +20,7 @@ I created this builder for the reason of adding space for freedom. That's why I 
 
 GitHub: [github.com/warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder)
 
-## Instant Setup
+## ⚡ Instant Setup
 
 To get started, all you have to do is to go to the [official GitHub repository](https://github.com/warengonzaga/css-text-portrait-builder).
 
@@ -38,7 +38,7 @@ Open the builder using the link below.
 
 A new Gitpod workspace will be created. Now proceed to the build steps below.
 
-## Building Steps
+## 📋 Building Steps
 
 1. Rename your image into `bg.jpg` and make sure it is in JPG/JPEG format.
 2. Navigate to `src/img` and upload your image, just replace the existing image.
@@ -49,7 +49,7 @@ A new Gitpod workspace will be created. Now proceed to the build steps below.
 5. Navigate to `src/scss` and open the file `_vars.scss` to edit the settings.
 6. Lastly, look in the command-line interface and hover your mouse to the `https://localhost:1234` and press `ctrl` + `left click` to open it to a new tab. You'll see your builds in real-time.
 
-## Customization
+## ✨ Customization
 
 You can customize the output of the build by editing the `src/scss/_vars.scss` file.
 
@@ -91,7 +91,7 @@ $invert: 0; // it will convert the color of the image
 
 It is always up to you what you want with your builds. Every time you made changes to the code it will automatically update and save your changes.
 
-## Discussions
+## 💬 Discussions
 
 To learn more about the builder or you just want to showcase your builds then you are welcome to hop in on our [official GitHub discussions](https://github.com/warengonzaga/css-text-portrait-builder/discussions).
 
@@ -101,7 +101,7 @@ I want to share this build with one of the builders in the community! 🥰
 
 > I featured this build since it is very unique, the author of this portrait uses a special character to achieve this meme look.
 
-## Last Words
+## 🐱‍👤 Last Words
 
 Alright, looks like that's fast enough to create your own CSS text portrait using my builder. The builder is currently under development and I will add more features sooner! I created this project in just 4 hours including the publishing of the project. I will leave some useful links below for you to take a look at and learn more about the project.
 
