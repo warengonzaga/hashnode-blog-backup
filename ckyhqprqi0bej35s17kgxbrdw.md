@@ -132,7 +132,7 @@ At this moment, we're currently giving away [free NFT (Silver Early Access Cards
 
 #### 🔥 Awesome Update
 
-Hey, it turns out, there are new free Web3 learning websites, communities, and resources out there! 😱 I'm gonna quick list them here and I might create volume 2 of this post for new resources. It's gonna be another 7 awesome new resources for learning Web3. Check out my additional links below! 😉
+Hey, it turns out, there are new free Web3 learning websites, communities, and resources out there! 😱 I'm gonna quick list them here and I might create volume 2 of this blog for new resources. It's gonna be another 7 awesome new resources for learning Web3. Check out my additional links below! 😉
 
 > - **[Pointer](https://www.pointer.gg/)** - Learn web3 dev skills with fun interactive tutorials. Earn crypto rewards along the way!
 - **[Web3 University](https://www.web3.university/)** - The open university covering the fundamentals of web3 development: from writing Solidity to minting NFTs, to building full-stack dApps. Bringing you resources from the best in the blockchain.
