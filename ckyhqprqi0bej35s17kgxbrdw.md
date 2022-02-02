@@ -22,6 +22,8 @@ Let's have some basic understanding of what Web3 is before we dive into the awes
 
 Amazing right? We are currently in the middle of this transition from Web2 to Web3. For me, Web3 is not just hype and a bubble. Web3 is here a long time ago waiting for us to adapt, transition, and accept the future of the internet. You should start learning Web3 right now while it is early we have nothing to lose if you know both Web2 and Web3 which is better than nothing! 🤝🔥 **WAGMI**!!!
 
+> Psst, new resources added! Check out [🔥 Awesome Update](#heading-awesome-update)!!!
+
 and... here's the list! enjoy! 🥰
 
 ### 📚 [BuildSpace](https://buildspace.so)
