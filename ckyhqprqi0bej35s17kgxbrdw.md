@@ -130,11 +130,20 @@ Check out [this awesome guide](https://thirdweb.com/portal/guides/release-an-nft
 
 At this moment, we're currently giving away [free NFT (Silver Early Access Cards)](https://thirdweb.com/early) to the first 100,000 users to mint it. Hurry!!! Don't forget to join our [community](https://discord.gg/thirdweb) too! 🤯✨
 
+#### 🔥 Awesome Update
+
+Hey, it turns out, there are new free Web3 learning websites, communities, and resources out there! 😱 I'm gonna quick list them here and I might create volume 2 of this post for new resources. It's gonna be another 7 awesome new resources for learning Web3. Check out my additional links below! 😉
+
+> - **[Pointer](https://www.pointer.gg/)** - Learn web3 dev skills with fun interactive tutorials. Earn crypto rewards along the way!
+- **[Web3 University](https://www.web3.university/)** - The open university covering the fundamentals of web3 development: from writing Solidity to minting NFTs, to building full-stack dApps. Bringing you resources from the best in the blockchain.
+
+Shout out to [Kenneth Cassel](https://twitter.com/KennethCassel) for building Pointer and [Vitto Rivabella](https://twitter.com/VittoStack) for building Web3 University. I'm proud, I'm part of their community too. 🔥
+
 Thanks for reading, good luck with your Web3 journey! 💖 **GM**, **WAGMI!**
 
 ## 💖 Support Me
 
-📢 Nominate me ([@WarenGonzaga](https://github.com/warengonzaga)) as a [GitHub Star](https://stars.github.com/nominate). If you appreciate my hard work, passion, and dedication to opensource projects.
+📢 Nominate me ([@WarenGonzaga](https://github.com/warengonzaga)) as a [GitHub Star](https://stars.github.com/nominate). If you appreciate my hard work, passion, and dedication to open-source projects.
 
 Cheers, see you on my next 7 awesome blogs... 💻💖☕
 
