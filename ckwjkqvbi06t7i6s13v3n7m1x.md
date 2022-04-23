@@ -111,7 +111,7 @@ Alright, looks like that's fast enough to create your own CSS text portrait usin
 
 ---
 
-📢 Nominate me ([@WarenGonzaga](https://warengonzaga.com)) as a **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate my hard work, passion, and dedication to open source projects like this.
+📢 Nominate me ([@warengonzaga](https://warengonzaga.com)) as a **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate my hard work, passion, and dedication to open source projects like this.
 
 Cheers! 🚀👌
 See you on my next blog...
