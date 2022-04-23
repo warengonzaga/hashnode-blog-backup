@@ -52,7 +52,7 @@ Here's the cleaning process in sequence. 🧹
 
 Now we have the tool, we don't have to worry about doing the same mistake I made in the past. 🤣 It is so simple to use my cleaning tool, just follow the usage below... 👀
 
-1. Get the latest stable version.
+1. Get the [latest stable version](https://github.com/warengonzaga/wrn-cleaner/releases).
 2. Run the batch script file as an **Administrator**.
 3. Follow the on-screen instructions.
 4. Wait...
