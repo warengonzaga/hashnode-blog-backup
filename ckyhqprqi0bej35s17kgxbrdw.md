@@ -120,11 +120,11 @@ Before you leave, why not check the bonus content below? 😅
 
 ### 🚀 Bonus Content
 
-What if I tell you, you can build Web3 applications without coding? (I know you're laughing right now, that's fine, no worries 😅) 
+What if I tell you, that you can build Web3 applications without coding? (I know you're laughing right now, that's fine, no worries 😅) 
 
 That's actually possible with the help of the [thirdweb](https://thirdweb.com)! 🤫✨
 
-%[https://www.youtube.com/watch?v=WH__geAgkxI]
+[![Check out the thirdweb launch video here!](https://cdn.hashnode.com/res/hashnode/image/upload/v1652712937110/Im0UuU6Bg.jpg align="center")](https://www.instagram.com/p/CXbmb06gGhP)
 
 I'm a general community manager at thirdweb and I would like to include this in this blog as it helps a traditional Web2 developer like me to transition to Web3 space. It is actually awesome because it enables no-code developers to participate in Web3 space without knowing Solidity or Rust to interact with smart contracts. Aside from being a no-code platform, you can actually use the programming language you already know such as JavaScript, Python, and much more... just to build some Web3 cool stuff! 🔥
 
@@ -145,7 +145,7 @@ Thanks for reading, good luck with your Web3 journey! 💖 **GM**, **WAGMI!**
 
 ## 💖 Support Me
 
-📢 Nominate me ([@WarenGonzaga](https://github.com/warengonzaga)) as a [GitHub Star](https://stars.github.com/nominate). If you appreciate my hard work, passion, and dedication to open-source projects.
+📢 Nominate me ([@warengonzaga](https://github.com/warengonzaga)) as a [GitHub Star](https://stars.github.com/nominate). If you appreciate my hard work, passion, and dedication to open-source projects.
 
 Cheers, see you on my next 7 awesome blogs... 💻💖☕
 
