@@ -1,4 +1,12 @@
-## 7 Awesome: Free Websites to Learn Web3
+---
+title: "7 Awesome: Free Websites to Learn Web3"
+datePublished: Sun Jan 16 2022 20:57:58 GMT+0000 (Coordinated Universal Time)
+cuid: ckyhqprqi0bej35s17kgxbrdw
+slug: 7-awesome-free-websites-to-learn-web3
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1642366457252/_9nXoS-8H.jpeg
+tags: web-development, rust, blockchain, cryptocurrency, solidity
+
+---
 
 ## 🤝 Introduction
 
@@ -6,7 +14,7 @@
 
 I'm not gonna talk more about Web3 here in detail maybe on a separate blog so better to follow and subscribe to my newsletter so you won't miss out on any Web3 related content soon! 😎
 
-**([Get a Free PDF Version Here](https://warengonzaga.gumroad.com/l/nmkip))** 👈
+**(**[**Get the PDF version here to support my publication**](https://buymeacoffee.com/warengonzaga/e/237335)**)** 👈
 
 Let's start! 🤘
 
@@ -16,9 +24,12 @@ Let's start! 🤘
 
 Let's have some basic understanding of what Web3 is before we dive into the awesome list. Based on [Eshita's article](https://eshita.mirror.xyz/H5bNIXATsWUv_QbbEz6lckYcgAa2rhXEPDRkecOlCOI) she describes it like this in a simple way.
 
-- Web1 *(read)* 😬
-- Web2 *(read and write)* 😨
-- Web3 *(read, write, and own)* 😱
+* Web1 *(read)* 😬
+    
+* Web2 *(read and write)* 😨
+    
+* Web3 *(read, write, and own)* 😱
+    
 
 Amazing right? We are currently in the middle of this transition from Web2 to Web3. For me, Web3 is not just hype and a bubble. Web3 is here a long time ago waiting for us to adapt, transition, and accept the future of the internet. You should start learning Web3 right now while it is early we have nothing to lose if you know both Web2 and Web3 which is better than nothing! 🤝🔥 **WAGMI**!!!
 
@@ -28,7 +39,7 @@ and... here's the list! enjoy! 🥰
 
 ### 📚 [BuildSpace](https://buildspace.so)
 
-![buildspace.so](https://cdn.hashnode.com/res/hashnode/image/upload/v1642064109139/mnY7xhumC.png)
+![buildspace.so](https://cdn.hashnode.com/res/hashnode/image/upload/v1642064109139/mnY7xhumC.png align="left")
 
 Let's start this awesome list with BuildSpace! This is indeed a top place to learn and build real-world Web3 projects by doing. Why on top? BuildSpace offers different projects for you to start hacking. 🐱‍👤
 
@@ -40,15 +51,15 @@ For every project you completed you'll earn enough experience that leads you to 
 
 I have a great experience inside the community that leads me to meet different popular people in the Web3 space. Thank you [@Farza](https://twitter.com/FarzaTV) for building this wonderful community!
 
-### 📚 [Odyssey DAO](https://odysseydao.com)
+### 📚 Odyssey DAO
 
-![odysseydao.com](https://cdn.hashnode.com/res/hashnode/image/upload/v1642064259126/MKo2oDX00.png)
+![odysseydao.com](https://cdn.hashnode.com/res/hashnode/image/upload/v1642064259126/MKo2oDX00.png align="left")
 
 Another personal favorite! 🔥 Not gonna lie, this is a good alternative to BuildSpace the only difference is that this is a learning DAO community. DAO means a decentralized autonomous organization, Odyssey has a pretty good definition of this.
 
 [A DAO is a community that’s owned and managed by its members](https://www.odysseydao.com/articles/what-is-dao).
 
-Here's a good thing about Odyssey, they made it possible to provide 100% free Web3 education with the help of the community around it by offering NFTs and tokens. For me, this is a great use of NFTs and tokens because you're getting NFTs and tokens for a cause, not just you want to have an NFT and tokens. 🔥 
+Here's a good thing about Odyssey, they made it possible to provide 100% free Web3 education with the help of the community around it by offering NFTs and tokens. For me, this is a great use of NFTs and tokens because you're getting NFTs and tokens for a cause, not just you want to have an NFT and tokens. 🔥
 
 As much as I love to support their work, their NFTs and tokens are all sold out. 😥 That's not gonna stop me from contributing, so I decided to volunteer by translating their tutorials to my first language — Filipino (Tagalog). 💡💖🚀
 
@@ -56,9 +67,11 @@ Odyssey has an active Discord community so better to join and start learning! �
 
 Good job [@petergyang](https://twitter.com/petergyang) for making this possible! 🚀
 
+UPDATE: Sadly, the community is no longer active.
+
 ### 📚 [CryptoZombies](https://cryptozombies.io)
 
-![cryptozombies.io](https://cdn.hashnode.com/res/hashnode/image/upload/v1642064367825/R243uNfC1.png)
+![cryptozombies.io](https://cdn.hashnode.com/res/hashnode/image/upload/v1642064367825/R243uNfC1.png align="left")
 
 Honestly, unlike BuildSpace and Odyssey, this one is a pretty good place to learn Web3 in a fun and interactive way for free. I can describe CryptoZombies as a Web3 version of Code School (Pluralsight), freeCodeCamp, or Sololearn. Plus, it is opensource! ✨
 
@@ -70,7 +83,7 @@ Fun fact, the creator of CryptoZombies is also the creator of popular [EthFiddle
 
 ### 📚 Hashnode's Web3
 
-![web3.hashnode.com](https://cdn.hashnode.com/res/hashnode/image/upload/v1640097015238/uNj5ck0wZ.png)
+![web3.hashnode.com](https://cdn.hashnode.com/res/hashnode/image/upload/v1640097015238/uNj5ck0wZ.png align="left")
 
 Surprise! 😅🎉 Yes, I added to the list the very own Web3 blogs of Hashnode. Not gonna lie, the Web3 blogs are high quality and you can learn from them. Do you know what I love about Hashnode? The ability to listen to this blog! 😱 Yes, that makes it fun and convenient to learn from a Web3 audio blog like Hashnode.
 
@@ -80,9 +93,9 @@ Speaking of that, Hashnode is currently looking for Web3 [bloggers](https://web3
 
 In addition, Hashnode is currently hosting a [Web3 hackathon event](https://townhall.hashnode.com/thirdweb-hackathon) together with [thirdweb](https://thirdweb.com) at the time of this writing. So it is better to check that out and win some cool prizes. Thank me later! 🤝😀
 
-### 📚 UseWeb3
+### 📚 [UseWeb3](https://www.useweb3.xyz/)
 
-![useweb3.xyz](https://cdn.hashnode.com/res/hashnode/image/upload/v1642076684260/OGsry5iz5.png)
+![useweb3.xyz](https://cdn.hashnode.com/res/hashnode/image/upload/v1642076684260/OGsry5iz5.png align="left")
 
 A great opensource community-contributed resource for Web3 enthusiasts like you. Better to check this out and bookmark it to your favorite browser because you're gonna use it on your entire Web3 journey. 🔥
 
@@ -92,7 +105,7 @@ No more to say, very useful Web3 resource!
 
 ### 📚 CryptoDevHub
 
-![cryptodevhub.io](https://cdn.hashnode.com/res/hashnode/image/upload/v1642076751874/XzMQ0pXz2.png)
+![cryptodevhub.io](https://cdn.hashnode.com/res/hashnode/image/upload/v1642076751874/XzMQ0pXz2.png align="left")
 
 If you like the wiki-style of learning about Web3 then this is the right place for you. CryptoDevHub is a wiki-type website where you can find tons of information about Web3. It also offers some guides for you to get started with Web3 development. Plus there is a community around it where Web3 peeps hang out by helping each other to build Web3 apps. Which is cool! 🤩
 
@@ -100,7 +113,7 @@ I would like to thank the webmaster [@pmmuens](https://twitter.com/pmmuens) for 
 
 ### 📚 NFT School
 
-![nftschool.dev](https://cdn.hashnode.com/res/hashnode/image/upload/v1642076831473/2QsyYk9BG.png)
+![nftschool.dev](https://cdn.hashnode.com/res/hashnode/image/upload/v1642076831473/2QsyYk9BG.png align="left")
 
 Here we are to the last item on our list! Please welcome, the NFT School! NFT is one of the features of Web3 so why not add it to the list. I can define NFT School as the Web3 version of W3 School but for NFTs. 🙈
 
@@ -120,7 +133,7 @@ Before you leave, why not check the bonus content below? 😅
 
 ### 🚀 Bonus Content
 
-What if I tell you, that you can build Web3 applications without coding? (I know you're laughing right now, that's fine, no worries 😅) 
+What if I tell you, that you can build Web3 applications without coding? (I know you're laughing right now, that's fine, no worries 😅)
 
 That's actually possible with the help of the [thirdweb](https://thirdweb.com)! 🤫✨
 
@@ -136,8 +149,11 @@ At this moment, we're currently giving away [free NFT (Silver Early Access Cards
 
 Hey, it turns out, there are new free Web3 learning websites, communities, and resources out there! 😱 I'm gonna quick list them here and I might create volume 2 of this blog for new resources. It's gonna be another 7 awesome new resources for learning Web3. Check out my additional links below! 😉
 
-> - **[Pointer](https://www.pointer.gg/)** - Learn web3 dev skills with fun interactive tutorials. Earn crypto rewards along the way!
-- **[Web3 University](https://www.web3.university/)** - The open university covering the fundamentals of web3 development: from writing Solidity to minting NFTs, to building full-stack dApps. Bringing you resources from the best in the blockchain.
+> * [**Pointer**](https://www.pointer.gg/) - Learn web3 dev skills with fun interactive tutorials. Earn crypto rewards along the way!
+>     
+
+* [**Web3 University**](https://www.web3.university/) - The open university covering the fundamentals of web3 development: from writing Solidity to minting NFTs, to building full-stack dApps. Bringing you resources from the best in the blockchain.
+    
 
 Shout out to [Kenneth Cassel](https://twitter.com/KennethCassel) for building Pointer and [Vitto Rivabella](https://twitter.com/VittoStack) for building Web3 University. I'm proud, I'm part of their community too. 🔥
 
@@ -148,4 +164,3 @@ Thanks for reading, good luck with your Web3 journey! 💖 **GM**, **WAGMI!**
 📢 Nominate me ([@warengonzaga](https://github.com/warengonzaga)) as a [GitHub Star](https://stars.github.com/nominate). If you appreciate my hard work, passion, and dedication to open-source projects.
 
 Cheers, see you on my next 7 awesome blogs... 💻💖☕
-
