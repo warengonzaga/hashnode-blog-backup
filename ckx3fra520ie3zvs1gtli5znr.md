@@ -1,6 +1,14 @@
-## 7 Awesome: Web Animation Libraries and Frameworks
+---
+title: "7 Awesome: Web Animation Libraries and Frameworks"
+datePublished: Sun Dec 12 2021 16:02:44 GMT+0000 (Coordinated Universal Time)
+cuid: ckx3fra520ie3zvs1gtli5znr
+slug: 7-awesome-web-animation-libraries-and-frameworks
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1639324847612/mzKDUrjrU.jpeg
+tags: web-development, opensource, css-animation, story, 2articles1week
 
-Welcome to my first **7 Awesome Series**! 🎉 Enjoy! ([PDF Version Available](https://warengonzaga.gumroad.com/l/CcPGQ)).
+---
+
+Welcome to my first **7 Awesome Series**! 🎉 Enjoy! ([PDF Version Available](https://www.buymeacoffee.com/warengonzaga/e/230959)).
 
 ## 🤝 Introduction
 
@@ -14,18 +22,19 @@ Here are the top 7 awesome web animation libraries and frameworks. I ranked them
 
 ### 📦 ThreeJS
 
-%[https://github.com/mrdoob/three.js]
+%[https://github.com/mrdoob/three.js] 
 
 Obviously the top on the list! Can't deny it... 😅
 
 This is one of the best web animation libraries out there and you can create crazy amazing web animation with it. I have one example below of what it can do... 🤯
 
-![threejs_example_01](https://cdn.hashnode.com/res/hashnode/image/upload/v1639320035175/oHpx2Thw7.png)
+![threejs_example_01](https://cdn.hashnode.com/res/hashnode/image/upload/v1639320035175/oHpx2Thw7.png align="left")
+
 > GitHub's landing page, the interactive and animated globe...
 
 ### 📦 AnimateCSS
 
-%[https://github.com/animate-css/animate.css]
+%[https://github.com/animate-css/animate.css] 
 
 Let's admit it, this is one of the most useful CSS animation libraries out there. 😅
 
@@ -35,33 +44,33 @@ AnimateCSS has an active community and I'm still working on upcoming updates. It
 
 ### 📦 AnimeJS
 
-%[https://github.com/juliangarnier/anime]
+%[https://github.com/juliangarnier/anime] 
 
 If you want to make your web animation to the next level then AnimeJS is for you! 🤘 I can say that this is an all-in-one solution for web animation as it says "It works with CSS properties, SVG, DOM attributes and JavaScript Objects." Have a try! 👌
 
 ### 📦 Velocity
 
-%[https://github.com/julianshapiro/velocity]
+%[https://github.com/julianshapiro/velocity] 
 
 A fast and reliable web animation replacement for jQuery's animate. I can say it is easy to use since it has the same usage as jQuery's animate. 😉 Velocity has great documentation and has an active community and is being used by big companies. Check it out!
 
 ### 📦 MoJS
 
-%[https://github.com/mojs/mojs]
+%[https://github.com/mojs/mojs] 
 
-MoJS stands for Motion Graphics for the Web powered by JavaScript. It has a complete list of advanced tools to create advanced web animation for your projects. It has an active community and has comprehensive documentation for you to start using  [MoJS](mojs.github.io). 😎
+MoJS stands for Motion Graphics for the Web powered by JavaScript. It has a complete list of advanced tools to create advanced web animation for your projects. It has an active community and has comprehensive documentation for you to start using [MoJS](mojs.github.io). 😎
 
 ### 📦 Vivus
 
-%[https://github.com/maxwellito/vivus]
+%[https://github.com/maxwellito/vivus] 
 
 Do want to animate web things like crazy? Then start using Vivus lol. 😅
 
-This is so powerful when you want to play with SVG elements on your web projects. It blows my mind when I first discovered this simple and lightweight (with no dependencies) animation library. Check out the  [official homepage](http://maxwellito.github.io/vivus/)  for you to see it in action.
+This is so powerful when you want to play with SVG elements on your web projects. It blows my mind when I first discovered this simple and lightweight (with no dependencies) animation library. Check out the [official homepage](http://maxwellito.github.io/vivus/) for you to see it in action.
 
 ### 📦 GreensockJS or GSAP
 
-%[https://github.com/greensock/GSAP]
+%[https://github.com/greensock/GSAP] 
 
 The final in the list, the amazing GSAP! 👌😉
 
@@ -73,15 +82,15 @@ I recommend checking out the [website](https://greensock.com/showcase/) for more
 
 ## 🐱‍👤 Last Words
 
-I want to point out that it is not required to use libraries and frameworks when it comes to web animations. I learned the hard way back then when I start working as a junior developer. I animate the web without using any libraries and frameworks and it was like a hell. 😅
+I want to point out that it is not required to use libraries and frameworks when it comes to web animations. I learned the hard way back then when I start working as a junior developer. I animated the web without using any libraries and frameworks and it was like hell. 😅
 
-To lessen the tasks, I started using these libraries and frameworks to get the job done as fast as I can. In a corporate world, they don't care what you know and what you use as long as you complete your job in the right way. 😁 I know you know what I mean... 😅
+To lessen the tasks, I started using these libraries and frameworks to get the job done as fast as I can. In the corporate world, they don't care what you know and what you use as long as you complete your job in the right way. 😁 I know you know what I mean... 😅
 
 My recommendation, learn the fundamentals and start learning them with libraries or frameworks because along the way you'll pick up it. Just explore! Learn by doing... 🥰
 
 ### 🚀 Bonus Content
 
-As a bonus, check out my [GitHub list](https://github.com/stars/WarenGonzaga/lists/7a-web-animation)  for this series and also [grab the PDF version](https://warengonzaga.gumroad.com/l/CcPGQ) of it for **FREE**. 😉
+As a bonus, check out my [GitHub list](https://github.com/stars/WarenGonzaga/lists/7a-web-animation) for this series and also you might want to [grab the PDF version](https://www.buymeacoffee.com/warengonzaga/e/230959) to support my publication. 😉
 
 ## 💖 Support Me
 
