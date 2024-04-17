@@ -1,5 +1,5 @@
 ---
-title: "How to Enable Buy Me a Coffee to your Open Source Project on GitHub?"
+title: "How to Enable Buy Me a Coffee to your Open Source Project on GitHub"
 seoTitle: "Enable Buy Me a Coffee on GitHub Projects"
 seoDescription: "Learn to add a Buy Me a Coffee button to your GitHub project in simple steps, supporting open-source funding"
 datePublished: Tue Mar 19 2024 07:25:46 GMT+0000 (Coordinated Universal Time)
