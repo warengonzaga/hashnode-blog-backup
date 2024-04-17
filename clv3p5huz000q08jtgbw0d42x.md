@@ -22,7 +22,7 @@ Without further ado, let's deploy your **Engine** to its **Railway**. 🚂🛤�
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">ℹ</div>
-<div data-node-type="callout-text">Are you looking for a managed thirdweb Engine? <a target="_blank" rel="noopener noreferrer nofollow" href="https://thirdweb.com/engine" style="pointer-events: none">Try Cloud-Hosted</a>!</div>
+<div data-node-type="callout-text">Are you looking for a managed thirdweb Engine? <a target="_blank" rel="noopener noreferrer nofollow" href="https://thirdweb.com/dashboard/engine?requestCloudHosted" style="pointer-events: none">Try Cloud-Hosted</a>!</div>
 </div>
 
 ## Requirements
@@ -118,7 +118,7 @@ You need to update the version manually from the Railway dashboard. To do this, 
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">ℹ</div>
-<div data-node-type="callout-text">Are you looking for an effortless version update? <a target="_blank" rel="noopener noreferrer nofollow" href="https://thirdweb.com/engine" style="pointer-events: none">Try Cloud-Hosted</a>!</div>
+<div data-node-type="callout-text">Are you looking for an effortless version update? <a target="_blank" rel="noopener noreferrer nofollow" href="https://thirdweb.com/dashboard/engine?requestCloudHosted" style="pointer-events: none">Try Cloud-Hosted</a>!</div>
 </div>
 
 Enjoy, and keep building! 🫶
