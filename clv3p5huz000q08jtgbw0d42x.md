@@ -5,7 +5,7 @@ seoDescription: "Learn to deploy a self-hosted thirdweb Engine on Railway in und
 datePublished: Wed Apr 17 2024 10:55:43 GMT+0000 (Coordinated Universal Time)
 cuid: clv3p5huz000q08jtgbw0d42x
 slug: how-to-deploy-a-self-hosted-thirdweb-engine-on-railway-in-less-than-3-minutes
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1713350221743/c7670eb7-e0e6-4c84-b796-22f530328b00.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1713548146982/4c6d458c-641e-45a0-9f5f-e18498e645e1.jpeg
 tags: tutorial, apis, blockchain, rest-api, web3, railway, thirdweb, railway-app
 
 ---
