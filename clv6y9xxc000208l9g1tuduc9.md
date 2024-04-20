@@ -48,15 +48,13 @@ In this blog, you'll learn how to deploy it on your local machine so you can exp
     
     ![A screenshot of a computer terminal showing the GNU nano text editor open with a file named ".env.example" containing environment variable settings for thirdweb engine.](https://cdn.hashnode.com/res/hashnode/image/upload/v1713536129747/7ee60a3a-39d6-4477-8741-039332f200ea.png align="center")
     
-    | Variable | Description |
-    | --- | --- |
-    | `ADMIN_WALLET_ADDRESS` | The wallet address that will configure Engine from the thirdweb dashboard. |
-    | `THIRDWEB_API_SECRET_KEY` | A thirdweb secret key was created on the [API Keys page](https://thirdweb.com/dashboard/settings/api-keys). |
-    | `ENCRYPTION_PASSWORD` | Provide a string to encrypt sensitive data stored in DB. Do not change this value, or encrypted data will be inaccessible. |
+    `ADMIN_WALLET_ADDRESS` → The wallet address that can manage your engine.  
+    `THIRDWEB_API_SECRET_KEY` → The thirdweb API secret key; [get yours here](https://thirdweb.com/dashboard/settings/api-keys).  
+    `ENCRYPTION_PASSWORD` → The string to encrypt sensitive data stored in DB.
     
     <div data-node-type="callout">
     <div data-node-type="callout-emoji">💡</div>
-    <div data-node-type="callout-text">To save your changes in the Nano text editor, press <code>CTRL+X</code>. It will then ask you to confirm the save. Simply, press <code>Y</code> and then hit <code>ENTER</code> to complete the process.</div>
+    <div data-node-type="callout-text">To save your changes in the Nano text editor, press <code>CTRL+X</code>. It will then ask you to confirm the save. Simply press <code>Y</code> and then hit <code>ENTER</code> to complete the process.</div>
     </div>
     
 3. After that, start Docker on your local machine and ensure it is running.
