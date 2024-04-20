@@ -1,11 +1,11 @@
 ---
-title: "How to Recover the Ownership of Your thirdweb Pre-built Contract?"
+title: "How to Recover the Ownership of Your thirdweb Pre-built Contract"
 seoTitle: "Recover Ownership of Your thirdweb Contract"
 seoDescription: "Learn to recover and secure your thirdweb contract ownership without gas fees using our gasless method guide. Perfect for compromised admin wallets"
 datePublished: Mon Mar 18 2024 13:54:36 GMT+0000 (Coordinated Universal Time)
 cuid: cltx0byw300010ajt30rmaov6
 slug: how-to-recover-the-ownership-of-your-thirdweb-pre-built-contract
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710769776549/07edfd35-0d54-4b8c-af40-aa63f071f06e.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1713606320522/1f8f8a76-0018-486a-ac9d-56c6c9c8191e.jpeg
 tags: tutorial, javascript, web3, thirdweb
 
 ---
