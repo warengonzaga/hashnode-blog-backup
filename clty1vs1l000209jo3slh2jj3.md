@@ -1,12 +1,12 @@
 ---
-title: "How to Enable Buy Me a Coffee to your Open Source Project on GitHub"
+title: "Enable Buy Me a Coffee to your Github Open Source Project"
 seoTitle: "Enable Buy Me a Coffee on GitHub Projects"
 seoDescription: "Learn to add a Buy Me a Coffee button to your GitHub project in simple steps, supporting open-source funding"
 datePublished: Tue Mar 19 2024 07:25:46 GMT+0000 (Coordinated Universal Time)
 cuid: clty1vs1l000209jo3slh2jj3
 slug: how-to-enable-buy-me-a-coffee-to-your-open-source-project-on-github
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710833066546/0465aef4-b320-4c89-b2d8-5848087ac04f.jpeg
-tags: tutorial, github, opensource
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1713605487793/3d6f40d4-7d3b-4fe8-81db-5d17baf75009.jpeg
+tags: tutorial, github, opensource, buymeacoffee
 
 ---
 
