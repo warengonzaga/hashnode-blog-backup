@@ -10,15 +10,15 @@ tags: opensource, windows, it, performance-optimization
 
 ---
 
-You are probably here because you have a Windows machine that is getting slower and slower. Doing maintenance and optimization on your own requires time, research, and knowledge to do it right and avoid having additional Windows issues. I promise I know the pain of having a Windows machine and doing maintenance! 😅
+You are probably here because you have a Windows machine that is getting slower and slower. Doing maintenance and optimization on your own requires time, research, and knowledge to do it right and avoid having additional Windows issues. I know the pain of having a Windows machine and doing maintenance. 😅
 
 ![pain](https://media.giphy.com/media/4VUiK7uleZ7BcP21Sx/giphy.gif align="left")
 
-Let me share one story with you, one time I tried to do basic cleaning to my Windows machine using **Disk Cleanup** and I checked all the items there and delete them so I can free up some space. Do you know what happened? --- **Blue Screen of Death** shows! 🤦‍♂️
+Let me share one story with you; one time, I tried to do basic cleaning to my Windows machine using Disk Cleanup, and I checked all the items there and deleted them so I could free up some space. Do you know what happened? --- **Blue Screen of Death** shows! 🤦‍♂️
 
 ![microsoft](https://c.tenor.com/-aZGk99QVM8AAAAC/space-force-microsoft.gif align="left")
 
-With this wonderful experience using Windows, I motivated myself to learn how to effectively do maintenance and optimization without breaking my computer. I know that's a funny reason but that's my inspiration, that's why I created a tool that automates the optimization and maintenance of a Windows computer. 🤘
+With this wonderful experience using Windows, I motivated myself to learn how to effectively do maintenance and optimization without breaking my computer. I know that's a funny reason, but that's my inspiration; that's why I created a tool that automates the optimization and maintenance of a Windows computer. 🤘
 
 ## 🧹 Cleaning Tool
 
@@ -69,7 +69,7 @@ Here's the cleaning process in sequence. 🧹
 
 ![maintenance](https://c.tenor.com/xuwfj5uz2B8AAAAC/gopi-bahu.gif align="left")
 
-Now we have the tool, we don't have to worry about doing the same mistake I made in the past. 🤣 It is so simple to use my cleaning tool, just follow the usage below... 👀
+Now we have the tool, and we don't have to worry about making the same mistake I made. 🤣 It is so simple to use my cleaning tool. Follow the usage below... 👀
 
 1. Get the [latest stable version](https://github.com/warengonzaga/wrn-cleaner/releases).
     
@@ -88,17 +88,17 @@ Now we have the tool, we don't have to worry about doing the same mistake I made
 
 ![security](https://c.tenor.com/YbmQHDSJvbkAAAAC/thumbs-up-hacker.gif align="left")
 
-Some of you may know that I'm a cybersecurity researcher by trade and security is very important to me. The maintenance tool I made is safe to use as I'm also using it, I mean you can read the entire source code in the official GitHub repository. 😅
+Some of you may know that I'm a cybersecurity researcher by trade, and security is very important to me. The maintenance tool I made is safe to use as I'm also using it, I mean you can read the entire source code in the official GitHub repository. 😅
 
 In addition, you can check the [VirusTotal result here](https://www.virustotal.com/gui/url/092c4998fbb4b0bb8ff569d81dd92dffdf61edd3d6c37e591f5411b0bd948ab0/detection). 😉
 
 If, in any case, you find a potential security bug, then feel free to reach out to me.
 
-## 🐱‍👤 Last Words
+## ☝️ Last Words
 
 ![last words](https://c.tenor.com/R4_XacJ__O8AAAAC/break-break-the-ice.gif align="left")
 
-Having a Windows machine can be painful, but this is where I started, and this is all I have. I'm planning to install a new machine with Windows OS soon. Yeah, I'm very comfortable with Windows as my main personal computer. I would probably use an Apple machine for work purposes as it is very reliable in that use case, but that's really, really soon. 🤞
+Having a Windows machine can be painful, but this is where I started, and this is all I have. I'm planning to install a new machine with Windows OS soon. Yeah, I'm very comfortable with Windows as my main personal computer. I would probably use an Apple machine for work as it is very reliable in that use case, but that's soon. 🤞
 
 Cleaning your machine can be painful too if you don't know the basics, that's where the tools become useful. Don't rely too much on tools; still, you have to learn the basics. 👊
 
